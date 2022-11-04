@@ -1,0 +1,27 @@
+body{
+    background-color: #FFE7CC;
+}
+
+.caja2{
+    background-color: #083AA9;
+    width: max-content;
+    padding: 20px;
+    color: white;
+    border: 8px double #002E94;
+    margin: 10% auto;
+    text-align: center;
+    max-width: max-content;
+}
+
+.mensajecontent{
+    font-size: 30px;
+}
+
+.feedback{
+    display: none;
+}
+
+.show{
+    display: block;
+    color: red;
+}
